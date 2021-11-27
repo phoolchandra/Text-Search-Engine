@@ -1,4 +1,4 @@
-# search_engine
+# String-Search
 This project search the word ,sentence /string or Quotations 
 
 Salient features of the projects
@@ -45,7 +45,6 @@ Output:-
 It gives
 1 File name and line number containg your query ;
  
-# String-Search
 
 ## Salient Features:
 
